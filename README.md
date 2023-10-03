@@ -7,7 +7,7 @@ Brief report that highlights the differences between customers who did and did n
 
 **Github repository:** https://github.com/Wilson-CK/AI-ML
 
-What's included:  This Readme, Jupyter notebook, and original data files. 
+What's included:  This README, Jupyter notebook, and original data files. 
 
 **Summary of findings:**
 
