@@ -65,7 +65,7 @@ What's included:  This Readme, Jupyter notebook, and original data files.
 
 * I chose the Carryout & Takeaway coupon group for this exercise.
 
-* Carryout & Takeaway dataframe “carryDF”:  has 2,393 rows and 25 columns
+* Carryout & Takeaway dataframe “carryDF”:  has 2,393 rows and 25 columns.
 
 * Proportion of entries that accepted the Carryout & Takeaway coupon: 73.55%
 
@@ -107,7 +107,7 @@ What's included:  This Readme, Jupyter notebook, and original data files.
 
 **[Next Steps & Recommendations]** More analysis can be performed on other coupon types such as those for coffee houses and cheap/expensive restaurants. Additionally, we can check out more categorical relationships such as the correlation among marital status, occupation, any children, income and educational levels to the acceptance rate of various coupon types.
 
-For the bar coupons, I would advise Amazon to target drivers who travel alone or with adult passengers and visit the bar at least once a month. Additionally, extend their coupon expiration to 1 day as opposed to 2 hours to provide more flexibility - as opposed to sense of urgency - for the drivers to choose.
+For the bar coupons, I would advise Amazon to target drivers who travel alone or with adult passengers and visit the bar at least once a month. Additionally, extend their coupon expiration to 1 day rather than 2 hours to provide more flexibility - as opposed to sense of urgency - for the drivers to choose.
 
 For the Carryout & Takeaway coupons, I would recommend Amazon to focus on drivers who are driving back home or to non urgent destinations with friends or partner during sunny weather in the afternoon and, as above, extend the coupon expiration to 1 day as opposed to 2 hours.
 
