@@ -23,6 +23,8 @@ What's included:  This Readme, Jupyter notebook, and original data files.
 
 **Bar Coupons:**
 
+* **Problem to solve:** Highlight the differences between customers who did and did not accept the bar coupon
+
 * Bar dataframe “BarDF” has: 2,017 rows and 25 columns.
 	
 * Proportion of entries that accepted the bar coupon: 41.00%
@@ -62,6 +64,8 @@ What's included:  This Readme, Jupyter notebook, and original data files.
 * **[Hypothesis]** Drivers who travel alone or with adult passengers and visit the bar at least once a month have a much higher propensity of accepting a bar coupon than those who travel with kids or rarely visit the bar.
 
 **Independent investigation: Carryout & Takeaway Coupons**
+
+* **Problem to solve:** Highlight the differences between customers who did and did not accept the carryout & takeaway coupon
 
 * I chose the Carryout & Takeaway coupon group for this exercise.
 
